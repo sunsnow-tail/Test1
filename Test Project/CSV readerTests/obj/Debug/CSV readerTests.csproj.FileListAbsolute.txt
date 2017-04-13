@@ -1,0 +1,16 @@
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\bin\Debug\CSV readerTests.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\bin\Debug\CSV readerTests.pdb
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\bin\Debug\CSV reader.exe
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\bin\Debug\CSV reader.pdb
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\obj\Debug\CSV readerTests.csprojResolveAssemblyReference.cache
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\obj\Debug\CSV readerTests.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\ERM Test\CSV readerTests\obj\Debug\CSV readerTests.pdb
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\bin\Debug\CSV readerTests.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\bin\Debug\CSV readerTests.pdb
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\bin\Debug\CSV reader.exe
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\bin\Debug\CSV reader.pdb
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\obj\Debug\CSV readerTests.csprojResolveAssemblyReference.cache
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\obj\Debug\CSV readerTests.dll
+C:\Home\Australia\Brisbane\ERM Power\ERM Test\Test Project\CSV readerTests\obj\Debug\CSV readerTests.pdb
